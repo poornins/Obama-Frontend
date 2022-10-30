@@ -1,2 +1,0 @@
-# Obama-Frontend
-Front End
